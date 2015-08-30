@@ -1,6 +1,4 @@
 # heartbeat
-===============
-
 Heartbeat is a js animation like heartbeat.
 
 ##Description
