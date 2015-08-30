@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+.wrapper {
+  background-color: white;
+  margin: 0 auto;
+  width: 360px;
+  height: 360px;
+  text-align: center;
+}
+
+.circle {
+  text-indent: -9999px;
+  border-radius: 50%;
+  opacity: 0;
+
+  /* 任意の大きさに変更してください */
+  width: 360px;
+  height: 360px;
+  
+  /* width,heightの半分の大きさにしてください */
+  margin-left: -180px;
+  margin-top: -180px;
+
+  position: absolute;
+  left: 50%;
+  top: 50%;
+
+  background-color: #F73636;
+  color: white;
+  font-size: 1px;
+}
+
+.heartbeat01 {
+ /* z-index: 2;*/
+}
+
+.heartbeat02 {
+/*  z-index: 1;*/
+}
