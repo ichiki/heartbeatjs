@@ -1,6 +1,5 @@
 # heartbeatjs
-Heartbeatjs is a js animation like heartbeat.
-!(./img/heatbeatjs.gif)
+![Heartbeatjs is a js animation like heartbeat.](./img/heatbeatjs.gif)
 
 ##Description
 Heartbeatjs is a js animation module.
