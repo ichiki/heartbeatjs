@@ -1,6 +1,6 @@
 # heartbeatjs
 Heartbeatjs is a js animation like heartbeat.
-[[ ./img/heatbeatjs.gif | width = 725px | height = 100px ]]
+!(./img/heatbeatjs.gif)
 
 ##Description
 Heartbeatjs is a js animation module.
